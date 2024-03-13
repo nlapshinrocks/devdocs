@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="66cb60bb">
+        <description>Created after removal of "Docker" from Usefull Docs for Developers</description>
+        <accepts>Docker.html</accepts>
+    </rule>
+    <rule id="19b5bd51">
+        <description>Created after removal of "PostgreSQL" from Usefull Docs for Developers</description>
+        <accepts>PostgreSQL.html</accepts>
+    </rule>
+    <rule id="75c27fbd">
+        <description>Created after removal of "PostgreSQL" from Usefull Docs for Developers</description>
+        <accepts>PostgreSQL.html</accepts>
+    </rule>
+    <rule id="3ca1ccd3">
+        <description>Created after removal of "Tutorial" from Usefull Docs for Developers</description>
+        <accepts>Tutorial.html</accepts>
+    </rule>
+    <rule id="663f9fc1">
+        <description>Created after removal of "Section Starting Page" from Usefull Docs for Developers</description>
+        <accepts>Section-Starting-Page.html</accepts>
+    </rule>
+</rules>
