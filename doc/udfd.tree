@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="udfd"
+                 name="Usefull Docs for Developers"
+                 start-page="starter-topic.md">
+
+    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="Docker.md">
+        <toc-element topic="Usefull-Commands.md"/>
+    </toc-element>
+    <toc-element topic="PostgreSQL.md">
+        <toc-element topic="Usefull-commands-for-postgreSQL.md"/>
+    </toc-element>
+</instance-profile>
