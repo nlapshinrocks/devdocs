@@ -10,7 +10,7 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'sources/udfd'
+  INSTANCE: 'doc/udfd'
   ARTIFACT: 'webHelpHI2-all.zip'
   DOCKER_VERSION: '233.14389'
 
