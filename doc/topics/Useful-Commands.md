@@ -13,7 +13,7 @@ docker cp containerName:/filePathInContainer FilePathOnHost
 </tab>
 <tab title="container 2 host">
 
-~~~
+~~~shell
 docker cp FilePathOnHost containerName:/filePathInContainer
 ~~~
 </tab>
