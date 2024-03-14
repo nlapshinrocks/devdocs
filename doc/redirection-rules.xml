@@ -26,4 +26,8 @@
         <description>Created after removal of "Section Starting Page" from Usefull Docs for Developers</description>
         <accepts>Section-Starting-Page.html</accepts>
     </rule>
+    <rule id="59b3d232">
+        <description>Created after removal of "Empty MD Topic" from Usefull Docs for Developers</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
 </rules>
